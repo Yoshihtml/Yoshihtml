@@ -2,7 +2,7 @@
 - 👀 I’m interested in Ethical Hacking,Pentest
 - 🌱 I’m currently learning Pentest
 - 💞️ I’m looking to collaborate on Bug Bounty
-- 📫 How to reach me yudininja15@gmail.com
+- 📫 How to reach me discord: 5eos
 
 <!---
 Yoshihtml/Yoshihtml is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
